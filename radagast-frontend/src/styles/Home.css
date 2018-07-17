@@ -1,0 +1,16 @@
+.placeholder{
+    height: 91.7vh;
+    width: auto;
+    overflow-y: scroll;
+}
+
+.placeholder .padded{
+    padding: 2%;
+}
+
+.placeholder .upperDiv{
+    height: 10vh;
+    background-color: #1b94ad;
+    padding-top: 1.5%;
+    padding-left: 1.5%;
+}

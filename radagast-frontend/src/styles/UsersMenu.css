@@ -1,0 +1,12 @@
+.main-bar{
+    height: 100%;
+    background-color: #17788C !important;
+}
+
+.user-icon{
+    margin-left: 3px;
+}
+
+.main-bar .ui.inverted.menu{
+    background: #17788C !important;
+}

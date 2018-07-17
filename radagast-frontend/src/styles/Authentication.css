@@ -1,0 +1,23 @@
+.half-bg {
+    background-color:#17788C;
+    height: 50vh;
+}
+
+.login-center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-35%, -50%);
+}
+
+.login-container {
+    width: 70%;
+}
+
+.login-form{
+    width: 100%
+}
+
+.login-label{
+    text-align: left;
+}
